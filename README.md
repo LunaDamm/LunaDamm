@@ -1,16 +1,23 @@
-## Heya 👋🏻
+```zsh
+> fastfetch
+```
 
-<!--
-**LunaDamm/LunaDamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://avatars.githubusercontent.com/u/181938004?v=4" width="320" /> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+LunaDamm@github
+-------------------------
+OS: macOS arm64, CachyOS (Arch Linux) x86_64
+Pronouns: she/her
+Uptime: 26 years
+Location: Esbjerg, Denmark
+Frameworks: Nuxt, Vue.js
+Languages: JavaScript, PHP,
+           HTML, CSS
+Learning: Docker, MariaDB, MySQL
+Hobbies: Making music, Gaming, 
+         Learning Japanese
+Memory: 14.89 GiB / 15.45 GiB
+Battery: 9% [Discharging]
+Locale: da_DK.UTF-8
+```
