@@ -16,7 +16,7 @@ Languages: JavaScript, PHP,
            HTML, CSS
 Learning: Docker, MariaDB, MySQL
 Hobbies: Making music, Gaming, 
-         Learning Japanese
+         Selfhosting, Japanese
 Memory: 14.89 GiB / 15.45 GiB
 Battery: 9% [Discharging]
 Locale: da_DK.UTF-8
