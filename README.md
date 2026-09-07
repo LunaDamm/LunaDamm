@@ -4,7 +4,7 @@
 
 <img align="left" src="https://avatars.githubusercontent.com/u/181938004?v=4" width="320" /> 
 
-```csharp
+```bash
 LunaDamm@github
 -------------------------
 OS: macOS arm64, CachyOS (Arch Linux) x86_64
