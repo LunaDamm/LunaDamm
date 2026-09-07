@@ -12,11 +12,9 @@ Pronouns: she/her
 Uptime: 26 years
 Location: Esbjerg, Denmark
 Frameworks: Nuxt, Vue.js
-Languages: JavaScript, PHP,
-           HTML, CSS
+Languages: JavaScript, PHP, HTML, CSS
 Learning: Docker, MariaDB, MySQL
-Hobbies: Making music, Gaming, 
-         Selfhosting, Japanese
+Hobbies: Making music, Gaming, Selfhosting, Japanese
 Memory: 14.89 GiB / 15.45 GiB
 Battery: 9% [Discharging]
 Locale: da_DK.UTF-8
